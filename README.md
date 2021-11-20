@@ -16,6 +16,6 @@ Increases the speed of your character by 2 times.
 * Download **IncreasedSpeed.dll** from https://github.com/MegaPiggy/IncreasedSpeed/releases/tag/1.1.0
 * After installing, put the **IncreasedSpeed.dll** file in the folder **"~Smol Ame/SALT/Mods"**.
 
-[![](https://raw.githubusercontent.com/MegaPiggy/InfiniteJump/main/AmeSpeed1.png)](https://www.nexusmods.com//mods/3&game_id=3759)
+[![](https://raw.githubusercontent.com/MegaPiggy/IncreasedSpeed/main/AmeSpeed1.png)](https://www.nexusmods.com//mods/3&game_id=3759)
 
-[![](https://raw.githubusercontent.com/MegaPiggy/InfiniteJump/main/AmeSpeed2.png)](https://www.nexusmods.com//mods/3&game_id=3759)
+[![](https://raw.githubusercontent.com/MegaPiggy/IncreasedSpeed/main/AmeSpeed2.png)](https://www.nexusmods.com//mods/3&game_id=3759)
